@@ -1,3 +1,12 @@
+# 1.0.0 (2025-03-06)
+
+
+### Features
+
+* **main:** make course structure ([8a05c00](https://github.com/igfilatov/git-extended/commit/8a05c00bc5bb7f091f0ea40024697632a5346b51))
+
+
+
 ## [1.0.10](https://github.com/yamadharma/course-directory-student-template/compare/v1.0.9...v1.0.10) (2025-02-10)
 
 

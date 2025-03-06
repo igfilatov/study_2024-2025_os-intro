@@ -1,0 +1,14 @@
+{
+  "name": "study_2024-2025_os-intro",
+  "version": "1.0.0",
+  "description": "Git repo",
+  "main": "index.js",
+  "repository": "git@github.com:igfilatov/git-extended.git",
+  "author": "Илья Филатов <ila689213@gmail.com>",
+  "license": "CC-BY-4.0",
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  }
+}
