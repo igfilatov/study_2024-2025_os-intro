@@ -11,9 +11,6 @@ theme: metropolis
 header-includes:
   - \metroset{progressbar=frametitle,sectionpage=progressbar,numbering=fraction}
 toc: false
----
-
-# Презентация по лабораторной работе №2
 
 ---
 
@@ -37,6 +34,8 @@ toc: false
 
 ## Установка программного обеспечения
 
+---
+
 - **Установка git и gh**  
   ![Установка пакетов](image/1.png){#fig:001 width=70%}  
 
@@ -47,6 +46,8 @@ toc: false
 ---
 
 ## Создание ключей
+
+---
 
 - **Создание SSH ключа (алгоритм ed25519)**  
   ![Создание ключа SSH](image/3.png){#fig:003 width=70%}
@@ -60,6 +61,8 @@ toc: false
 
 ## Настройка GitHub и подписей
 
+---
+
 - **Добавление PGP ключа в GitHub**  
   ![Настройка PGP ключа в GitHub](image/5.png){#fig:005 width=70%}
 
@@ -71,6 +74,8 @@ toc: false
 ---
 
 ## Авторизация и организация репозитория
+
+---
 
 - **Авторизация через gh**  
   ![Авторизация gh](image/7.png){#fig:007 width=70%}
